@@ -14,8 +14,9 @@ Grid has 12 columns layout in one line or viewpoint.
 
 In material Grid the first Grid is used to indicate that it is container. spacing means the width the grid gonna take.
 The second Grid indicates the items -
-xs={12}: means in small devices the component will take whole line or all 12 columsn layout.
-md={4}: means in medium/large devices the component will take 4 out 12 column layout
+
+- `xs={12}`: means in small devices the component will take whole line or all 12 columsn layout.
+- `md={4}`: means in medium/large devices the component will take 4 out 12 column layout
 
 - the new material ui may have some bugs, however you need to install these tow libraries as well along with material ui.
   -npm install @emotion/react
