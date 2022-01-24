@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.js";
 function Header() {
-  return <div></div>;
+  return <div>Header</div>;
 }
 
 export default Header;

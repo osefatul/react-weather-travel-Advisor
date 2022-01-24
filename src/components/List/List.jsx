@@ -1,7 +1,7 @@
 import React from "react";
-import "./list.css";
+import "./styles";
 function List() {
-  return <div></div>;
+  return <div>List</div>;
 }
 
 export default List;
