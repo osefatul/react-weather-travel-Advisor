@@ -25,7 +25,8 @@ md={4}: means in medium/large devices the component will take 4 out 12 column la
 
 CssBaseline - will provide a lot of default material ui css styles
 
-AppBar - simply a navigation bar
-Toolbar- the blue line in the navigation bar.
-Typography - a line of text
-Box - is simply a div
+`AppBar` - simply a navigation bar
+`Toolbar`- the blue line in the navigation bar.
+`Typography` - a line of text
+`Box` - is simply a div
+`InputBase` - is just an input
