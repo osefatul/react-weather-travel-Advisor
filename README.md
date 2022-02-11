@@ -6,6 +6,8 @@ We are using two APIs from [RapidAPI](https://rapidapi.com/hub?utm_source=youtub
 
 ### Material UI
 
+We used components API of the Material UI in this application. visit [here]()
+
 #### AP.js
 
 We used [grid and layout](https://mui.com/components/grid/) from material ui for responsive design and positioning. For revising flex and layout container jsut visit [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
