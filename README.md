@@ -1,5 +1,8 @@
 # Weather & Travel Advisor
 
+### Intro
+This is react based application which suggests best travel destination based on search places. It uses rapidApi to map realtime data for weather and travel purposes.
+
 We are using two APIs from [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 1 - [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 2- [OpenWeatherMap API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
